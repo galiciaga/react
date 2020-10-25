@@ -1,0 +1,16 @@
+.App {
+ justify-content: center;
+ display: flex;
+ width: 100%;
+}
+
+.contenedor-login{
+    justify-content: center;
+    display: flex;
+    padding-top: 100px;
+}
+.contendor{
+    width: 100%;
+    padding: 5px;
+    /*border:1px solid black;*/
+}
